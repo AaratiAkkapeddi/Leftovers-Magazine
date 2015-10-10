@@ -1,0 +1,283 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+
+.version.index /* version checker */
+{
+	color: #00001E;
+	background-color: #7E11D3;
+}
+
+
+marquee{
+	position: relative;
+	z-index: -1;
+  height:100vh !important;
+}
+html{
+  padding:0;
+  margin:0;
+}
+body{
+	border:1px solid pink;
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+/*	border:1px solid pink;*/
+	background-color: black;
+	font-family: 'Open Sans';
+	font-weight: 300;
+	color:pink;
+	cursor:url('../images/ginger.gif') 45 35, auto;
+}
+
+
+/*SCROLLBAR*/
+::-webkit-scrollbar {
+    width: .8em;
+    border:1px solid deeppink;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px deeppink;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background-color: black;
+  box-sizing:border-box;
+  border-radius: 5px;
+  border: 1px solid blue;
+}
+::-webkit-scrollbar-corner {
+background-color: #000;
+}
+
+/* BANNER */
+.banner{
+	background-size:30%;
+	background-repeat: repeat;
+	padding-top:2%;
+	width:100%;
+	margin:0 auto;
+	height:auto;
+}
+#flip{
+	transform: scaleX(-1);
+}
+.logo{
+	margin:0;
+	font-size: 3em;
+	text-align: center;
+	font-weight: 600;
+	padding-top:0;
+	transition:.8s;
+	color:pink;
+	letter-spacing: .2em;
+	background-color: none;
+	text-shadow:4px 4px 1px blue;
+}
+
+.logo img{
+	width:120px;
+}
+.logo:hover{
+	cursor:url('../images/popsicle.gif') 25 25, pointer;
+}
+.banner p{
+	background-color: black;
+	padding-bottom: 2%;
+	width:50%;
+	display: block;
+	height:auto;
+	margin:0 auto;
+	margin-top:2%;
+	color:pink;
+	text-align: center;
+}
+
+/* NAV */
+
+nav{
+	color:pink;
+	height:auto;
+	position: relative;
+	z-index: 9;
+	width:100%;
+}
+nav ul{
+	padding:0;
+	list-style: none;
+}
+nav ul li{
+  text-align: center;
+  margin:50px auto;
+  font-size: 1.5em;
+  background-color: black;
+  width:200px;
+}
+/*flip*/
+.button{
+  transition:.5s;
+}
+
+.open{
+  transform: rotateX(360deg);
+}
+
+.button:hover{
+  box-shadow:1px 1px 5px blue;
+}
+
+nav ul li:hover{
+	cursor:url('../images/popsicle.gif') 25 25, pointer;
+}
+/*nav:hover{
+	cursor:url('../images/popsicle.gif') 25 25, pointer;
+}*/
+
+/* Issues */
+
+.issues{
+	width:80%;
+	margin:0 auto;
+	padding:0;
+	box-sizing:border-box;
+	display: block;
+	overflow-y:scroll;
+  color:pink;
+/*	overflow: hidden;*/
+	max-height:0;
+	transition:max-height 1s;
+}
+
+.issueLink{
+	display:block;
+	margin:0 auto;
+	padding: 0;
+	border-radius: 5px;
+	height:200px;
+	width:200px;
+}
+
+.issueLink span{
+  display: inline-block;
+  text-align: center;
+  opacity: 1;
+}
+.issueLink img{
+  display:inline-block;
+	height:120px;
+	text-align: center;
+}
+
+.issueLink h2{
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.issues a{
+  border:1px solid pink;
+  width:100%;
+}
+.issues a img{
+  display: inline-block;
+}
+.issues a span{
+  display: inline-block;
+}
+.issues a i{
+  display: inline-block;
+}
+#issue-three{
+  background: url('../images/chocolate.png');
+  background-size: 25%;
+}
+.tracy{
+  font-size: .5em;
+  padding-top: 15px;
+}
+#issue-two{
+  background: url('../images/tomato.png');
+  background-size: 25%;
+}
+#issue-one{
+  background: url('../images/noodles.png');
+  background-size: 25%;
+}
+.number{
+  width:250px;
+  height:180px;
+  display: inline-block;
+  border: 1px groove pink;
+  padding:0 30px;
+/*  border-radius: 100%;*/
+  box-shadow: 2px 2px 1px blue;
+  font-size: 1.5em;
+  text-shadow:4px 4px 1px blue;
+  background-color: black;
+}
+.issuetitle{
+	display:block;
+	position: relative;
+	text-align: center;
+	font-weight: 300;
+	font-size:1.5em;
+	background-color: none;
+	text-shadow:2px 2px 1px blue;
+}
+
+/*hr{
+    border: 0;
+    border-bottom: 1px dashed blue;
+    background: blue;
+}*/
+/*GUIDELINES*/
+#guideline{
+	text-shadow:2px 2px 1px blue;
+}
+#guidelines{
+	color:pink;
+	z-index: 9;
+/*	height:200px;*/
+	width:80%;
+	overflow: scroll;
+	font-size: 1em;
+	height:0;
+	transition:height 1s;
+
+}
+
+/*ABOUT SECTION*/
+#about{
+	text-shadow:2px 2px 1px blue;
+}
+#about-section{
+	color:pink;
+	z-index: 9;
+	font-size: 1em;
+/*	height:200px;*/
+	width:80%;
+	overflow-y: scroll;
+	height:0;
+	transition:height 1s;
+
+}
+
+#about-section a{
+	text-decoration: underline;
+}
+
+/*MEDIA QUERY*/
+
+@media screen and (max-width: 590px) {
+   
+    .banner p{
+     width:90%;
+    }
+    .logo img{
+    	display:block;
+    	text-align: center;
+    	margin:0 auto;
+    }
+    #flip{
+    	display:none;
+    }
+}

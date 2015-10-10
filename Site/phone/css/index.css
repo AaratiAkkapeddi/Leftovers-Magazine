@@ -1,0 +1,248 @@
+.version.index /* version checker */
+{
+	color: #000013;
+	background-color: #E5989A;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/backgroundleftovers.gif") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.8072628762543px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	padding-bottom: 71px;
+	width: 0.01px;
+}
+
+#u6571
+{
+	z-index: 2;
+	width: 497px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+}
+
+#u6606
+{
+	z-index: 11;
+	width: 278px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6608-9
+{
+	z-index: 12;
+	width: 278px;
+	min-height: 28px;
+	background-color: #000000;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#slideshowu6572
+{
+	z-index: 3;
+	width: 0.01px;
+	height: 216px;
+	margin-top: 57px;
+	position: relative;
+}
+
+#u6586
+{
+	position: absolute;
+	width: 497px;
+	height: 216px;
+	background-color: transparent;
+}
+
+#u6586popup
+{
+	z-index: 4;
+}
+
+#u6589
+{
+	z-index: 5;
+	width: 497px;
+	height: 216px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u6591
+{
+	z-index: 7;
+	width: 497px;
+	height: 216px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u6587
+{
+	z-index: 9;
+	width: 497px;
+	height: 216px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u6589_img,#u6591_img,#u6587_img
+{
+	padding: 8px 41px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../../images/loading.gif") no-repeat center center;
+}
+
+#pu6598
+{
+	width: 0.01px;
+	margin-left: 67px;
+	margin-top: 41px;
+}
+
+#u6598
+{
+	z-index: 21;
+	width: 148px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+}
+
+#u6599
+{
+	z-index: 22;
+	width: 118px;
+	background-color: transparent;
+	margin-left: 23px;
+	position: relative;
+}
+
+#u6601-6
+{
+	z-index: 24;
+	width: 148px;
+	min-height: 30px;
+	background-color: #000000;
+	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u6602
+{
+	z-index: 30;
+	width: 147px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 216px;
+}
+
+#u6603
+{
+	z-index: 37;
+	width: 147px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6605-6
+{
+	z-index: 31;
+	width: 123px;
+	min-height: 32px;
+	background-color: #000000;
+	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FFFFFF;
+	margin-left: 9px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

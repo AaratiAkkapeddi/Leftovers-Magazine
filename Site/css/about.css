@@ -1,0 +1,152 @@
+.version.about /* version checker */
+{
+	color: #0000F5;
+	background-color: #25F2D9;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/backgroundleftovers2.gif") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 750px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u1818
+{
+	z-index: 61;
+	width: 1100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: -100px;
+	position: relative;
+}
+
+#u1819
+{
+	z-index: 62;
+	width: 392px;
+	height: 73px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1820-9
+{
+	z-index: 63;
+	width: 932px;
+	min-height: 43px;
+	background-color: #000000;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 168px;
+}
+
+#u911
+{
+	z-index: 2;
+	width: 848px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 102px;
+	margin-top: 41px;
+	position: relative;
+}
+
+#u910
+{
+	z-index: 3;
+	width: 846px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #000000;
+	padding-bottom: 301px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u909-57
+{
+	z-index: 4;
+	width: 921px;
+	min-height: 656px;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 2px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 30px;
+	left: -84px;
+}
+
+#u909-13
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u909-4,#u909-5
+{
+	font-size: 14px;
+	letter-spacing: 5px;
+	font-style: italic;
+	line-height: 24px;
+}
+
+#u909-10,#u909-11
+{
+	line-height: 30px;
+}
+
+#u909-44
+{
+	font-style: italic;
+}
+
+#u909-14,#u909-16,#u909-18,#u909-20,#u909-22,#u909-23,#u909-25,#u909-33,#u909-34,#u909-36,#u909-37,#u909-41,#u909-42,#u909-46,#u909-47,#u909-52
+{
+	line-height: 26px;
+}
+
+#u909-53,#u909-55
+{
+	line-height: 23px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+

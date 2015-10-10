@@ -1,0 +1,179 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1442621577028">
+  <folder name="css">
+    <file name="site_global.css" crc="4184972944"/>
+    <file name="issue-one.css" crc="4196337575" ref="issue-one"/>
+    <file name="about.css" crc="4112904921" ref="about"/>
+    <file name="issue-two.css" crc="3843110894" ref="issue-two"/>
+    <file name="index.css" crc="511578579" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="nina_aptcontract.pdf" crc="297292734" mt="1428775605000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>about:phone>issue-two:index:issue-one:about:issue-two"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>about:phone>issue-two:index:issue-one:about:issue-two"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:phone>issue-two:index:issue-one:issue-two"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="phone>index:phone>issue-two:index:issue-one:issue-two"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="phone>index:phone>issue-two:index:issue-one:issue-two"/>
+    <file name="touchswipe.js" crc="325405309" ref="phone>index:phone>issue-two:index:issue-one:issue-two"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>about:phone>issue-two"/>
+    <file name="pie.js" crc="3827607177" ref="phone>issue-two:issue-two"/>
+    <file name="museredirect.js" crc="4117159434" ref="index:about:issue-two"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="issue-one"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3786245693" ref="phone>index"/>
+    <file name="backgroundleftovers.gif" crc="193676808" ref="phone>index"/>
+    <file name="leftoversblack.png" crc="268950039" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:issue-one"/>
+    <file name="leftoverswhite3.png" crc="3947631340" ref="phone>index:index"/>
+    <file name="leftoverswhite4.png" crc="4136816804" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index:issue-one"/>
+    <file name="graphics-food-076283.gif" crc="3992797433" ref="phone>index:index"/>
+    <file name="graphics-food-071992.gif" crc="303573043" ref="phone>index:index"/>
+    <file name="photo book.gif" crc="25299492" ref="phone>issue-two:issue-two"/>
+    <file name="yesterday cover.jpg" crc="10210091" ref="phone>issue-two:issue-two"/>
+    <file name="pop.gif" crc="3979316532" ref="phone>issue-two:issue-two"/>
+    <file name="foggy.gif" crc="275101051" ref="phone>issue-two:issue-two"/>
+    <file name="screen shot 2012-11-20 at 31930 pm.jpg" crc="88007346" ref="phone>issue-two:issue-two"/>
+    <file name="screen shot 2012-10-09 at 33152 pm.jpg" crc="4282351261" ref="phone>issue-two:issue-two"/>
+    <file name="screen shot 2012-11-13 at 50806 pm.jpg" crc="4101438748" ref="phone>issue-two:issue-two"/>
+    <file name="giphy-1.gif" crc="4259551033" ref="phone>issue-two:issue-two"/>
+    <file name="giphy-2.gif" crc="342365820" ref="phone>issue-two:issue-two"/>
+    <file name="my_computer.jpg" crc="4029362839" ref="phone>issue-two:issue-two"/>
+    <file name="ichigo_and_purin.jpg" crc="166529911" ref="phone>issue-two:issue-two"/>
+    <file name="leftovers011.jpg" crc="13489585" ref="phone>issue-two:issue-two"/>
+    <file name="leftovers010.jpg" crc="271850798" ref="phone>issue-two:issue-two"/>
+    <file name="u5836-6.png" crc="60164795" ref="phone>issue-two"/>
+    <file name="bullandbear.jpg" crc="3865314890" ref="phone>issue-two:issue-two"/>
+    <file name="mediumlayout23.jpg" crc="261990856" ref="phone>issue-two:issue-two"/>
+    <file name="saws 4.jpg" crc="3883574372" ref="phone>issue-two:issue-two"/>
+    <file name="saws 5.jpg" crc="308724826" ref="phone>issue-two:issue-two"/>
+    <file name="say cheese005.jpg" crc="3905751599" ref="phone>issue-two:issue-two"/>
+    <file name="u5837-4.png" crc="320687451" ref="phone>issue-two"/>
+    <file name="u5838-6.png" crc="168234675" ref="phone>issue-two"/>
+    <file name="unfinished002.jpg" crc="172969379" ref="phone>issue-two:issue-two"/>
+    <file name="unfinished003b.jpg" crc="293913032" ref="phone>issue-two:issue-two"/>
+    <file name="u5840-4.png" crc="232515889" ref="phone>issue-two"/>
+    <file name="u5841-6.png" crc="4287053240" ref="phone>issue-two"/>
+    <file name="shrimp vision-1.jpg" crc="144783751" ref="phone>issue-two:issue-two"/>
+    <file name="thesleazecollage2.jpg" crc="435303742" ref="phone>issue-two:issue-two"/>
+    <file name="u5842-6.png" crc="3854830929" ref="phone>issue-two"/>
+    <file name="nina_aptcontract.jpg" crc="299380268" ref="phone>issue-two:issue-two"/>
+    <file name="esther-2.gif" crc="100594926" ref="phone>issue-two:issue-two"/>
+    <file name="joey2.gif" crc="366448941" ref="phone>issue-two:issue-two"/>
+    <file name="gioagain.gif" crc="443923809" ref="phone>issue-two:issue-two"/>
+    <file name="takecare-1.jpg" crc="3980085131" ref="phone>issue-two:issue-two"/>
+    <file name="u5852-6.png" crc="4006360528" ref="phone>issue-two"/>
+    <file name="u5845-6.png" crc="4045680472" ref="phone>issue-two"/>
+    <file name="fullsizerender (2).jpg" crc="4254381553" ref="phone>issue-two:issue-two"/>
+    <file name="u5846-6.png" crc="361652365" ref="phone>issue-two"/>
+    <file name="img_4516.jpg" crc="268508853" ref="phone>issue-two:issue-two"/>
+    <file name="coandles.jpg" crc="129274065" ref="phone>issue-two:issue-two"/>
+    <file name="u5847-6.png" crc="3912542247" ref="phone>issue-two"/>
+    <file name="u5843-4.png" crc="126448995" ref="phone>issue-two"/>
+    <file name="img_0333.jpg" crc="3944856925" ref="phone>issue-two:issue-two"/>
+    <file name="img_0262.jpg" crc="4079786665" ref="phone>issue-two:issue-two"/>
+    <file name="img_0631.jpg" crc="4196513669" ref="phone>issue-two:issue-two"/>
+    <file name="u5848-6.png" crc="78264678" ref="phone>issue-two"/>
+    <file name="u5839-4.png" crc="526834416" ref="phone>issue-two"/>
+    <file name="giphy-3.gif" crc="3813095043" ref="phone>issue-two:issue-two"/>
+    <file name="u5844-6.png" crc="409868895" ref="phone>issue-two"/>
+    <file name="tumblr_nmncabjlkh1u4wroeo1_1280.png" crc="4102812925" ref="phone>issue-two:issue-two"/>
+    <file name="u5849-6.png" crc="30293497" ref="phone>issue-two"/>
+    <file name="backgroundleftovers2.gif" crc="193676808" ref="index:about"/>
+    <file name="paper-texture-backgrounds.jpg" crc="167548007" ref="issue-one"/>
+    <file name="unfinishedillustration_andyozier.jpg" crc="3933834067" ref="issue-one"/>
+    <file name="u1367-4.png" crc="467282652" ref="issue-one"/>
+    <file name="img_6469.jpg" crc="4125447237" ref="issue-one"/>
+    <file name="eggwiggle.gif" crc="9085408" ref="issue-one"/>
+    <file name="img_0197.jpg" crc="3916014259" ref="issue-one"/>
+    <file name="tumblr_ng7x84uujs1u4wroeo1_1280.jpg" crc="4008435413" ref="issue-one"/>
+    <file name="tumblr_nfwuzajwz41u4wroeo1_1280.jpg" crc="511621926" ref="issue-one"/>
+    <file name="u426-5.png" crc="16119715" ref="issue-one"/>
+    <file name="u397-12.png" crc="4280969411" ref="issue-one"/>
+    <file name="tumblr_ng0n8u70xo1u4wroeo1_1280.jpg" crc="4286066168" ref="issue-one"/>
+    <file name="tumblr_nfm27dvhsr1u4wroeo1_1280.jpg" crc="4259882599" ref="issue-one"/>
+    <file name="u1582-6.png" crc="340115504" ref="issue-one"/>
+    <file name="unfinishedcomic.jpg" crc="3814652527" ref="issue-one"/>
+    <file name="u1361-7.png" crc="3930332231" ref="issue-one"/>
+    <file name="10407507_10100165973824384_3974423774222620217_n.jpg" crc="3965946576" ref="issue-one"/>
+    <file name="u447-6.png" crc="391180872" ref="issue-one"/>
+    <file name="tumblr_ngqyrec7a91u4wroeo1_1280.jpg" crc="4075345342" ref="issue-one"/>
+    <file name="tumblr_ngqz7efflc1u4wroeo1_1280.jpg" crc="491583143" ref="issue-one"/>
+    <file name="tumblr_ngqywelqdg1u4wroeo1_1280.jpg" crc="424242169" ref="issue-one"/>
+    <file name="tumblr_ngqyo22d4q1u4wroeo1_1280.jpg" crc="3758914228" ref="issue-one"/>
+    <file name="u550-6.png" crc="4019256405" ref="issue-one"/>
+    <file name="img_1703.jpg" crc="4290470323" ref="issue-one"/>
+    <file name="img_1706.jpg" crc="79438647" ref="issue-one"/>
+    <file name="u497-5.png" crc="4065805858" ref="issue-one"/>
+    <file name="961141_10203592719363146_963050782_n.jpg" crc="3927106997" ref="issue-one"/>
+    <file name="tvvlzww.jpg" crc="3936974363" ref="issue-one"/>
+    <file name="u527-5.png" crc="3878076862" ref="issue-one"/>
+    <file name="img_2319.jpg" crc="3929987743" ref="issue-one"/>
+    <file name="u883-6.png" crc="457406519" ref="issue-one"/>
+    <file name="touching the american dream - copy1.jpg" crc="3996917938" ref="issue-one"/>
+    <file name="touching the american dream - copy2.jpg" crc="4224680542" ref="issue-one"/>
+    <file name="touching the american dream - copy3.jpg" crc="375657124" ref="issue-one"/>
+    <file name="touching the american dream - copy4.jpg" crc="441502261" ref="issue-one"/>
+    <file name="touching the american dream - copy5.jpg" crc="4071043545" ref="issue-one"/>
+    <file name="tumblr_nflz7hqlcx1u4wroeo1_1280.jpg" crc="4041583066" ref="issue-one"/>
+    <file name="u506-10.png" crc="316337283" ref="issue-one"/>
+    <file name="unnamed (2).jpg" crc="4288717857" ref="issue-one"/>
+    <file name="unnamed.jpg" crc="170263919" ref="issue-one"/>
+    <file name="tumblr_ngqxwjki4x1u4wroeo1_1280.jpg" crc="4281586991" ref="issue-one"/>
+    <file name="u551-8.png" crc="4068496613" ref="issue-one"/>
+    <file name="unnamed.gif" crc="266942776" ref="issue-one"/>
+    <file name="img_7398.jpg" crc="365866641" ref="issue-one"/>
+    <file name="img_7272.jpg" crc="529428544" ref="issue-one"/>
+    <file name="u388-6.png" crc="3924832120" ref="issue-one"/>
+    <file name="img_7299.jpg" crc="136693257" ref="issue-one"/>
+    <file name="tumblr_ng89mo9wok1u4wroeo1_1280.jpg" crc="4148539048" ref="issue-one"/>
+    <file name="graphics-food-461587.gif" crc="4157937408" ref="issue-one"/>
+    <file name="folder1.png" crc="285821724" ref="issue-two"/>
+    <file name="folder4.png" crc="4268752271" ref="issue-two"/>
+    <file name="folder2.png" crc="58266076" ref="issue-two"/>
+    <file name="u1969-6.png" crc="232614220" ref="issue-two"/>
+    <file name="u1854-6.png" crc="116075689" ref="issue-two"/>
+    <file name="u1964-4.png" crc="410661210" ref="issue-two"/>
+    <file name="folder6.png" crc="293913243" ref="issue-two"/>
+    <file name="folder12.png" crc="4107461939" ref="issue-two"/>
+    <file name="folder3.png" crc="4061120192" ref="issue-two"/>
+    <file name="u1965-6.png" crc="208742715" ref="issue-two"/>
+    <file name="u1970-6.png" crc="4219356744" ref="issue-two"/>
+    <file name="u1858-4.png" crc="301425515" ref="issue-two"/>
+    <file name="folder7.png" crc="4214592614" ref="issue-two"/>
+    <file name="folder14.png" crc="144440258" ref="issue-two"/>
+    <file name="folder5.png" crc="4028692654" ref="issue-two"/>
+    <file name="u1859-6.png" crc="267502534" ref="issue-two"/>
+    <file name="u1966-6.png" crc="3797333630" ref="issue-two"/>
+    <file name="u1971-6.png" crc="277300655" ref="issue-two"/>
+    <file name="folder13.png" crc="3937631976" ref="issue-two"/>
+    <file name="folder18.png" crc="3810685327" ref="issue-two"/>
+    <file name="folder15.png" crc="3957989563" ref="issue-two"/>
+    <file name="u1860-6.png" crc="3979638541" ref="issue-two"/>
+    <file name="u1967-4.png" crc="4106912419" ref="issue-two"/>
+    <file name="u1972-6.png" crc="410123349" ref="issue-two"/>
+    <file name="folder9.png" crc="225078968" ref="issue-two"/>
+    <file name="folder20.png" crc="989265" ref="issue-two"/>
+    <file name="folder17.png" crc="232283510" ref="issue-two"/>
+    <file name="u1973-6.png" crc="4226216080" ref="issue-two"/>
+    <file name="u1968-6.png" crc="141587546" ref="issue-two"/>
+    <file name="u1945-4.png" crc="3786998053" ref="issue-two"/>
+    <file name="giphy.gif" crc="4085968972" ref="issue-two"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="about.css" crc="165666091" ref="phone>about"/>
+      <file name="issue-two.css" crc="193033521" ref="phone>issue-two"/>
+      <file name="index.css" crc="333813914" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="366420422" mt="1430951611199" redirect="true"/>
+    <file name="about.html" crc="309293602" mt="1430951611199" redirect="true"/>
+    <file name="issue-two.html" crc="424241132" mt="1430951611199" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4157968232" mt="1430951607775" redirect="true"/>
+  <file name="issue-one.html" crc="4073340484" mt="1430951607775" redirect="true"/>
+  <file name="about.html" crc="113048991" mt="1430951607775" redirect="true"/>
+  <file name="issue-two.html" crc="3956638672" mt="1430951607775" redirect="true"/>
+</manifest>

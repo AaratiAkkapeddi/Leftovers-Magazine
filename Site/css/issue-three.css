@@ -1,0 +1,363 @@
+/*============ ISSUE THREE LEFTOVERS ============ */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+
+body{
+  font-family: 'Open Sans';
+  font-weight: 300;
+  color:pink;
+  background: black;
+  cursor:url('../images/ginger.gif') 45 35, auto;
+}
+.work{
+  display:none;
+  margin-top:50px;
+}
+.text{
+  margin-left:20%;
+  padding:40px 0;
+  color: violet;
+  white-space: -moz-pre-wrap; /* Firefox */
+  white-space: -o-pre-wrap; /* Opera */
+  white-space: pre-wrap; /* Chrome */
+  word-wrap: break-word; /* IE */
+  white-space: pre-wrap;
+  white-space: nowrap;
+  overflow-x:scroll;
+  line-height: 200%;
+
+}
+b{
+  font-size: 1.5em;
+}
+.modal{
+  overflow-x:scroll;
+}
+.work img{
+  text-align: center;
+  margin:0 auto;
+  display: block;
+  padding:20px 0;
+  max-width: 90%;
+  overflow-x:scroll;
+}
+.work video{
+  text-align: center;
+  margin:0 auto;
+  display: block;
+  padding:20px 0;
+  max-width: 90%;
+}
+.work iframe{
+  text-align: center;
+  margin:0 auto;
+  display: block;
+  padding:20px 0;
+  max-width: 90%;
+}
+
+.name{
+  display: flex;
+  justify-content:center;
+  margin:0 auto;
+  width:100%;
+}
+#chelsea-glitter{
+  margin-top: 0;
+}
+.name img{
+  text-align: center;
+}
+/*#lelah .name img:nth-child(1){
+  margin-left: 230px;
+}*/
+video{
+  display: block;
+  margin:0 auto;
+}
+.modal{
+  background-color: rgba(0,0,0,.9);
+  min-height:80vh;
+  width:100vw;
+  height:auto;
+  position: absolute;
+  display: none;
+  top:0;
+  left:0;
+  z-index: 999;
+}
+.inner{
+  border:1px solid deeppink;
+  min-height: 80vh;
+  margin-top:100px;
+  width:80vw;
+  margin-left:10vw;
+}
+#x{
+  display: block;
+  float:right;
+  margin-top:0;
+  margin-right:0;
+  height:50px;
+  width:50px;
+  border:1px solid blue;
+  border-radius: 2px;
+}
+#x:hover{
+  cursor: url('../images/popsicle.gif') 25 25, pointer;
+}
+
+#right{
+  border-radius: 2px;
+  width:50px;
+  height:5px;
+  background-color: deeppink;
+  transform:rotate(45deg) translateY(15px) translateX(15px);
+}
+#left{
+  border-radius: 2px;
+  width:50px;
+  height:5px;
+  background-color: deeppink;
+  transform:rotate(-45deg) translateY(15px) translateX(-15px);
+  margin-bottom:-5px;
+}
+
+
+.contributor{
+  width:200px;
+  height:200px;
+  margin-bottom:70px;
+}
+
+.contributor-name{
+  padding:2px 0;
+  display: block;
+  position: relative;
+  pointer-events:none;
+  text-align: center;
+/*  margin-top: -130px;*/
+  background-color: black;
+  text-shadow:4px 4px 1px blue;
+}
+
+#leftovers{
+  font-size: 3em;
+  text-align: center;
+  font-weight: 600;
+  padding-top:0;
+  color:pink;
+  position: relative;
+  z-index: 9999;
+  letter-spacing: .2em;
+  margin-left:20px;
+  background-color: none;
+  text-shadow:4px 4px 1px blue;
+}
+#tracy-name{
+  color:deeppink;
+}
+#tracy-name:hover{
+  cursor: url('../images/popsicle.gif') 25 25, pointer;
+  color:yellow;
+  }
+#tracy{
+  font-size: 1.2em;
+  text-align: right;
+  display: block;
+  color:pink;
+  font-weight: 600;
+  letter-spacing: .2em;
+  margin-right: 27%;
+  margin-top: 10px;
+  text-shadow:4px 4px 1px blue;
+}
+#home{
+  font-size: 2em;
+  padding:5px 10px;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+#issue-title{
+  position: relative;
+  z-index: 9999;
+  margin-top:50px;
+  margin-left:50px;
+}
+#issue-title img{
+  width:30px;
+  padding-left:15px;
+}
+
+#issue-title img:nth-child(4){
+  width:40px;
+  padding-left:15px;
+}
+#three img:nth-child(1){
+  width:40px;
+  padding-left:15px;
+}
+#three img:nth-child(2){
+  width:40px;
+  padding-left:15px;
+}
+#three img:nth-child(3){
+  width:40px;
+  padding-left:15px;
+}
+#three img:nth-child(4){
+  width:30px;
+  padding-left:15px;
+}
+
+a{
+  color:inherit;
+  font-size: inherit;
+  text-decoration: none;
+}
+
+marquee{
+  margin-left:-100px;
+  position: absolute;
+  z-index: 9;
+  pointer-events:none;
+}
+#ghost{
+ top:100px;
+}
+#ghost2{
+ top:400px;
+}
+#pumpkin{
+ top:500px;
+}
+
+.grid{
+  padding-top:5%;
+  padding-left:20px;
+  margin:0 auto;
+  display: flex;
+  width:80%;
+  flex-wrap:wrap;
+}
+.cupcake{
+  width:200px;
+  height:200px;
+  transition:.5s;
+  pointer-events:all;
+}
+#two{
+  margin-top:-10px;
+}
+
+.cupcake:hover{
+  cursor:url('../images/popsicle.gif') 25 25, pointer;
+  transform:rotateX(360deg);
+/*  -webkit-filter: brightness(2);*/
+}
+
+.cupcake:active{
+  transform:scale(2,2);
+  -webkit-filter: hue-rotate(200deg);
+}
+
+@media screen and (max-width: 1060px) {
+   .inner{
+      margin-top: 230px;
+   }
+  #issue-title{
+    display: block;
+    margin-left:0;
+  }
+
+  .grid{
+    margin-left:0;
+    padding-left:0;
+  }
+  .whole{
+    margin-left:20vw;
+  }
+  #three{
+    display: block;
+    margin-top:20px;
+  }
+  #tracy-name{
+    display: block;
+  }
+}
+
+@media screen and (max-width: 870px) {
+   .inner{
+      margin-top: 250px;
+   }
+  #three{
+    display: block;
+    margin-top:20px;
+  }
+  #tracy-name{
+    display: block;
+  }
+  #issue-title{
+    margin-left:50px;
+  }
+  .whole{
+    margin-left: 25vw;
+  }
+  .text{
+    font-size: .8em;
+    margin-left:10%;
+  }
+  .modal{
+    margin-left:50px;
+  }
+  
+}
+
+@media screen and (max-width: 690px) {
+   
+  .grid{
+/*    margin-left: 80px;*/
+    padding-top:50px;
+
+  }
+  .whole{
+    margin-left: 15vw;
+  }
+  
+
+
+  
+}
+
+@media screen and (max-width: 608px) {
+   
+  .grid{
+    margin-left: 80px;
+    padding-top:50px;
+
+  }
+
+  g img{
+    -webkit-filter: hue-rotate(-30deg);
+  }
+}
+
+/*SCROLLBAR*/
+/*.text::-webkit-scrollbar {
+    width: .8em;
+    border:1px solid deeppink;
+}
+ 
+.text::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px deeppink;
+}
+ 
+.text::-webkit-scrollbar-thumb {
+  background-color: black;
+  box-sizing:border-box;
+  border-radius: 5px;
+  border: 1px solid blue;
+}
+.text::-webkit-scrollbar-corner {
+background-color: #000;
+}*/
