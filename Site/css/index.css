@@ -145,7 +145,10 @@ nav ul li:hover{
   color:pink;
 /*	overflow: hidden;*/
 	max-height:0;
+	overflow-y: scroll;
+/*	height:0;*/
 	transition:max-height 1s;
+	opacity: 0;
 }
 
 .issueLink{
@@ -241,6 +244,7 @@ nav ul li:hover{
 	overflow: scroll;
 	font-size: 1em;
 	height:0;
+	opacity: 0;
 	transition:height 1s;
 
 }
@@ -258,7 +262,6 @@ nav ul li:hover{
 	overflow-y: scroll;
 	height:0;
 	transition:height 1s;
-
 }
 
 #about-section a{

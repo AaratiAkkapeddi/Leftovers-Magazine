@@ -13,7 +13,6 @@ body{
   margin-top:50px;
 }
 .text{
-  margin-left:20%;
   padding:40px 0;
   color: violet;
   white-space: -moz-pre-wrap; /* Firefox */
@@ -26,19 +25,41 @@ body{
   line-height: 200%;
 
 }
+.work{
+  text-align: center;
+}
+.fa{
+  padding-left:10px;
+}
 b{
   font-size: 1.5em;
 }
-.modal{
-  overflow-x:scroll;
+#dev-cover{
+  margin-top:-8vh;
+  width:50vw;
+}
+.piece-title{
+  text-align: center;
+  margin:0 auto;
+}
+audio{
+  display: inline-block;
+  text-align: center;
+}
+.dev-piece-title{
+  margin:0 auto;
+  text-align: center;
+  padding-top:50px;
+  margin-bottom:-10vh;
 }
 .work img{
   text-align: center;
   margin:0 auto;
   display: block;
   padding:20px 0;
-  max-width: 90%;
+  max-width: 99%;
   overflow-x:scroll;
+  pointer-events:none;
 }
 .work video{
   text-align: center;
@@ -66,6 +87,7 @@ b{
 }
 .name img{
   text-align: center;
+  padding-left:35px;
 }
 /*#lelah .name img:nth-child(1){
   margin-left: 230px;
@@ -75,6 +97,7 @@ video{
   margin:0 auto;
 }
 .modal{
+  overflow-x:scroll;
   background-color: rgba(0,0,0,.9);
   min-height:80vh;
   width:100vw;
@@ -85,12 +108,26 @@ video{
   left:0;
   z-index: 999;
 }
+.modal2{
+  z-index: 9999;
+  overflow-x:scroll;
+  background-color: rgba(0,0,0,.9);
+  min-height:80vh;
+  width:100vw;
+  height:auto;
+  position: absolute;
+  display: none;
+  top:0;
+  left:0;
+  z-index: 999;
+}
+
 .inner{
   border:1px solid deeppink;
   min-height: 80vh;
   margin-top:100px;
-  width:80vw;
-  margin-left:10vw;
+  width:90vw;
+  margin-left:6vw;
 }
 #x{
   display: block;
@@ -305,7 +342,6 @@ marquee{
   }
   .text{
     font-size: .8em;
-    margin-left:10%;
   }
   .modal{
     margin-left:50px;
